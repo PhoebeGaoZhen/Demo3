@@ -9,7 +9,7 @@ In this manuscript, the Results section contains four figures (Fig.2-Fig.5) to d
 ## Fig.2 
 This figure shows the comparison results of DeepFGRN model with existing state-of-the-art methods. a-b. Results of DeepFGRN compared with state-of-the-art methods for regular GRN reconstruction from bulk gene expression profiles. c. Prediction performance of DeepFGRN for regular GRN reconstruction on more datasets. d-h. Results of DeepFGRN compared with CNNGRN for FGRN reconstruction on nine datasets.
 
-All the results of DeepFGRN (Fig.2a-h) can be reproduced via the data and code on GitHub repository: https://github.com/PhoebeGaoZhen/DeepFGRN/tree/master. It is recommended to follow the Readme on GitHub to reproduce these results. The results of other existing methods (Fig.2a-b) are from their corresponding literature. The results of CNNGRN (Fig.2d-h) can be reproduced via CNNGRN_FGRN.zip.
+All the results of DeepFGRN (Fig.2a-h) can be reproduced via the data and code on GitHub repository: https://github.com/PhoebeGaoZhen/DeepFGRN/tree/master. It is recommended to follow the Readme on GitHub to reproduce these results. The results of other existing methods (Fig.2a-b) are from their corresponding literature. The results of CNNGRN (Fig.2d-h) can be reproduced via CNNGRN_FGRN.zip according to README.md in Github Repository. 
 
 After obtaining these results, we drew the figures using Origin and merged them together using Adobe Illustrator.
 
