@@ -40,7 +40,7 @@ Fig.4c-f. Average results of ten times FCV for FGRN inference using four feature
 (3) Cnet+BLR: both correlation embedding and node bidirectional representation learned via node bidirectional representation module. 
 (4) expResNet+Cnet+BLR: the combination of gene expression features, correlation embedding , and node bidirectional representation.
 
-The results can be reproduced via XXXXXXXXXX代码文件.
+The results can be reproduced via ***Fig4c-f_experiments.zip***.
 
 Fig.4g-l. Average results of ten times FCV for FGRN inference using features of neighbors in different directions.
 To further demonstrate the influence of directivity for FGRN inference, we performed experiments on nine datasets where only the bidirectional representation of nodes differed, including 
@@ -48,7 +48,7 @@ To further demonstrate the influence of directivity for FGRN inference, we perfo
 (2) only Gt: only target neighbor representation, 
 (3) Gs+Gt: both source neighbor representation and target neighbor representation. 
 
-The results can be reproduced via XXXXXXXXXX代码文件.
+The results can be reproduced via ***Fig4g-l_experiments.zip***.
 
 ## Fig.5 
 Fig.5 shows Potential biomarkers and drugs analysis. a-d. Hub genes of four diseases based on MCC. e. The top ten potential drugs for breast cancer, liver cancer, lung cancer and COVID-19 based on DsigDB. f. Enrichment analysis of the first functional module of breast cancer.
