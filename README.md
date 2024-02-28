@@ -36,8 +36,11 @@ Fig.4a-b. The out-degree and in-degree of prior FGRN of E.coli.
 
 Fig.4c-f. Average results of ten times FCV for FGRN inference using four features. The four features are 
 (1) Cnet: only correlation embedding.
+
 (2) expResNet+Cnet: both gene expression features learned via one-dimensional ResNet and correlation embedding. 
+
 (3) Cnet+BLR: both correlation embedding and node bidirectional representation learned via node bidirectional representation module. 
+
 (4) expResNet+Cnet+BLR: the combination of gene expression features, correlation embedding , and node bidirectional representation.
 
 The results can be reproduced via ***Fig4c-f_experiments.zip***.
