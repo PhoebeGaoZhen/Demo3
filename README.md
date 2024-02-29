@@ -4,7 +4,7 @@ Here, we presents the datasets, trained models, and prediction results. In addit
 
 The code and data are avaiable at https://github.com/PhoebeGaoZhen/DeepFGRN/tree/master.
 
-In this manuscript, the Results section of DeepFGRN manuscript contains four figures (Fig.2-Fig.5) to demonstrate the performance of DeepFGRN model.
+In this manuscript, the Results section of DeepFGRN manuscript contains four figures (Fig.2-Fig.5) to demonstrate the performance of DeepFGRN model. (Fig. 1 is the overview of DeepFGRN framework)
 
 ## Fig.2 
 This figure shows the comparison results of DeepFGRN model with existing state-of-the-art methods. a-b. Results of DeepFGRN compared with state-of-the-art methods for regular GRN reconstruction from bulk gene expression profiles. c. Prediction performance of DeepFGRN for regular GRN reconstruction on more datasets. d-h. Results of DeepFGRN compared with CNNGRN for FGRN reconstruction on nine datasets.
@@ -12,6 +12,7 @@ This figure shows the comparison results of DeepFGRN model with existing state-o
 All the results of DeepFGRN (Fig.2a-h) can be reproduced via the data and code on GitHub repository: https://github.com/PhoebeGaoZhen/DeepFGRN/tree/master. It is recommended to follow the ***README.md*** in Github Repository to reproduce these results. The results of other existing methods (Fig.2a-b) are from their corresponding literature. The results of CNNGRN (Fig.2d-h) can be reproduced via ***CNNGRN_FGRN.zip*** according to ***README.md*** in Github Repository. 
 
 After obtaining these results, we drew the figures using Origin and merged them together using Adobe Illustrator.
+
 
 ## Fig.3
 This figure shows the effect of correlation analysis module on FGRN inference. a-e. Average results of ten times FCV for FGRN inference using different gene expression features.
@@ -28,6 +29,7 @@ Fig.3a-e are AUC, MCC, F1-score, Recall, and Precision under four scenarios, res
 It should be noted that the above experiments do not use node bidirectional representation, and the flowchart of the above experiments can be seen in Fig. S2. 
 
 The results can be reproduced via ***Fig3_experiments.zip***. Similarly, Origin and Adobe illustrator were adopted to plot Fig.3.
+![image](https://github.com/PhoebeGaoZhen/Demo3/assets/54731874/daff07b4-fe0a-4ca9-822b-30cd58a3ad13)
 
 ## Fig.4
 Fig.4 presents the effect of node bidirectional representation module on FGRN inference. 
