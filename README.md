@@ -12,6 +12,7 @@ This figure shows the comparison results of DeepFGRN model with existing state-o
 All the results of DeepFGRN (Fig.2a-h) can be reproduced via the data and code on GitHub repository: https://github.com/PhoebeGaoZhen/DeepFGRN/tree/master. It is recommended to follow the ***README.md*** in Github Repository to reproduce these results. The results of other existing methods (Fig.2a-b) are from their corresponding literature. The results of CNNGRN (Fig.2d-h) can be reproduced via ***CNNGRN_FGRN.zip*** according to ***README.md*** in Github Repository. 
 
 After obtaining these results, we drew the figures using Origin and merged them together using Adobe Illustrator.
+![image](https://github.com/PhoebeGaoZhen/Demo3/assets/54731874/15468140-690f-4eee-8ea8-0f17d5f49927)
 
 
 ## Fig.3
@@ -55,6 +56,7 @@ To further demonstrate the influence of directivity for FGRN inference, we perfo
 (3) Gs+Gt: both source neighbor representation and target neighbor representation. 
 
 The results can be reproduced via ***Fig4g-l_experiments.zip***.
+![image](https://github.com/PhoebeGaoZhen/Demo3/assets/54731874/f2939b57-79dd-4f62-be30-14a5a22987e2)
 
 ## Fig.5 
 Fig.5 shows Potential biomarkers and drugs analysis. a-d. Hub genes of four diseases based on MCC. e. The top ten potential drugs for breast cancer, liver cancer, lung cancer and COVID-19 based on DsigDB. f. Enrichment analysis of the first functional module of breast cancer.
@@ -67,6 +69,7 @@ Fig. 5e: The Enrichr and DSigDB database were combined to identify candidate the
 
 Fig. 5f: We carried out enrichment analysis about functional modules, which obtained via MCODE, and the results are shown in Supplementary Table. S9. Since the genes in FGRNs with higher node centrality are more likely to participate in key biological processes15, we selected some important functional modules for enrichment analysis. Then, enrichment analysis based on GO, KEGG, Reactome and Wikipathway databases were conducted. The enrichment analysis results of the first functional module of breast cancer are shown in Fig. 5 f. Lastly, all other detailed results are shown in the Supplementary Fig. 5-8. 
 
+![image](https://github.com/PhoebeGaoZhen/Demo3/assets/54731874/0ac3e4ba-81ee-48f5-817a-06dc7ea71130)
 
 
 
