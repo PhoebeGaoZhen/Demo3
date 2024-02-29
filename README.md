@@ -35,6 +35,7 @@ Fig.4 presents the effect of node bidirectional representation module on FGRN in
 Fig.4a-b. The out-degree and in-degree of prior FGRN of E.coli. 
 
 Fig.4c-f. Average results of ten times FCV for FGRN inference using four features. The four features are 
+
 (1) Cnet: only correlation embedding.
 
 (2) expResNet+Cnet: both gene expression features learned via one-dimensional ResNet and correlation embedding. 
