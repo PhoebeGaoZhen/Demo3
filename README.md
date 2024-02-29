@@ -4,7 +4,7 @@ Here, we presents the datasets, trained models, and prediction results. In addit
 
 The code and data are avaiable at https://github.com/PhoebeGaoZhen/DeepFGRN/tree/master.
 
-In this manuscript, the Results section contains four figures (Fig.2-Fig.5) to demonstrate the performance of DeepFGRN model.
+In this manuscript, the Results section of DeepFGRN manuscript contains four figures (Fig.2-Fig.5) to demonstrate the performance of DeepFGRN model.
 
 ## Fig.2 
 This figure shows the comparison results of DeepFGRN model with existing state-of-the-art methods. a-b. Results of DeepFGRN compared with state-of-the-art methods for regular GRN reconstruction from bulk gene expression profiles. c. Prediction performance of DeepFGRN for regular GRN reconstruction on more datasets. d-h. Results of DeepFGRN compared with CNNGRN for FGRN reconstruction on nine datasets.
